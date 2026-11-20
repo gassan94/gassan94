@@ -1,4 +1,4 @@
-# Hi, I'm Hasan
+# Hi there
 
 Full stack developer (Angular, Node.js/NestJS, .NET) in Germany, with a growing
 focus on Linux and systems programming.
